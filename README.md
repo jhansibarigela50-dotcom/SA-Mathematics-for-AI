@@ -12,11 +12,6 @@ An interactive decision-support dashboard built with **Streamlit** and **Plotly*
 
 ---
 
-## 🌐 Live Application 
-* **Live Streamlit App**: [Click Here to Access Live App](https://sa-mathematics-for-ai-jk34w2urbgafg7ylmtsey3.streamlit.app/) 
-
----
-
 ## 📌 Project Overview
 FootLens Analytics acquired a comprehensive sports dataset tracking player performance, injury timelines, and team match records. This project processes and cleans the raw data to quantify injury impact and visualize critical performance trends.
 
@@ -45,9 +40,16 @@ FootLens Analytics acquired a comprehensive sports dataset tracking player perfo
   * **Stacked Bar Chart**: Monthly injury clusters broken down by club.
   * **Grouped Bar Chart**: Normal Team Win % vs. Win % during key player absence.
 
+
 ---
 
-# App Screenshots
+## 🌐 Live Application 
+* **Live Streamlit App**: [Click Here to Access Live App](https://sa-mathematics-for-ai-jk34w2urbgafg7ylmtsey3.streamlit.app/) 
+
+---
+
+
+## App Screenshots
 
 <img width="2852" height="842" alt="image" src="https://github.com/user-attachments/assets/a87010b5-1713-4cff-8bfc-1421f66ccb1d" />
 
