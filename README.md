@@ -35,9 +35,9 @@ FootLens Analytics acquired a comprehensive sports dataset tracking player perfo
   * Converted injury start/end dates to standard `datetime` objects to derive exact recovery duration.
   * Standardized column naming conventions for cleaner data pipeline handling.
 * **Feature Engineering**:
-  * `injury_duration_days`: Total days sidelined per injury episode.
-  * `performance_drop_index`: Difference between pre-injury and post-recovery player ratings.
-  * `rating_change_post_recovery`: Quantified comeback rating change.
+  * injury_duration_days: Total days sidelined per injury episode.
+  * performance_drop_index: Difference between pre-injury and post-recovery player ratings.
+  * rating_change_post_recovery: Quantified comeback rating change.
 * **Interactive Visualizations**:
   * **Bar Chart**: Avg Rating Drop by Injury Type.
   * **Scatter Plot**: Player Age vs. Performance Drop Index (sized by recovery duration.
