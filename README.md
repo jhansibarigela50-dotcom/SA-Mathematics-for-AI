@@ -47,6 +47,19 @@ FootLens Analytics acquired a comprehensive sports dataset tracking player perfo
 
 ---
 
+# App Screenshots
+
+<img width="2852" height="842" alt="image" src="https://github.com/user-attachments/assets/a87010b5-1713-4cff-8bfc-1421f66ccb1d" />
+
+<img width="2156" height="1144" alt="image" src="https://github.com/user-attachments/assets/08ddc543-bdbf-4ad7-85a7-4f9652bd5d69" />
+
+<img width="2014" height="932" alt="image" src="https://github.com/user-attachments/assets/0928e3c2-42c2-4f8e-a5c3-b7bffdc99a4f" />
+
+<img width="2104" height="1134" alt="image" src="https://github.com/user-attachments/assets/588f6ee9-a31a-433c-8703-79e54032cf77" />
+
+<img width="2264" height="1204" alt="image" src="https://github.com/user-attachments/assets/34d314fa-1ad8-41e3-83df-77c9e0915882" />
+
+
 ## 📂 Repository Structure
 ```text
 .
